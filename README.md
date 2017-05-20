@@ -1,5 +1,7 @@
 ###前期需要准备的工作(已经在服务器上完成)
 
+
+
 - 安装opencv，以及其他附加项    * TEST代码显示的时候需要*
   可以参考http://blog.csdn.net/kuaile123/article/details/20870731
 - 安装**cmake**、**gcc**、**g++**......
